@@ -1,0 +1,17 @@
+body{
+background-color: dimgrey;
+}
+.pho{
+  display: inline-block;
+  margin-left: 33%;
+  align-content: space-between;
+  border-radius: 50%;
+  
+}
+.App{
+  display: inline-block;
+  
+}
+.text{
+  padding-left: 240px;
+}
